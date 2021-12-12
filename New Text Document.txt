@@ -1,0 +1,16 @@
+> KNN - Classifier
+> KNN - Regressor
+Multi-variate Regression
+Gradient Descent
+Logistic Regression
+Decision Tree Classifier
+Ensemble
+	= Voting Classifier
+	= Bagging
+		= Random Forests
+	= Boosting
+		= Gradient Boosting
+		= Adaptive Boosting
+	= Stacking
+Naive Bayes - Multinomial
+PCA
